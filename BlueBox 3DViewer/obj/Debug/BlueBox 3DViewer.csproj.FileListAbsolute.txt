@@ -1,0 +1,17 @@
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\bin\Debug\BlueBox 3DViewer.exe.config
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\bin\Debug\BlueBox 3DViewer.exe
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\bin\Debug\BlueBox 3DViewer.pdb
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\bin\Debug\HelixToolkit.dll
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\bin\Debug\HelixToolkit.Wpf.dll
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\bin\Debug\wpfcomponent.dll
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\bin\Debug\wpfcomponent.pdb
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\bin\Debug\HelixToolkit.xml
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\bin\Debug\HelixToolkit.Wpf.xml
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\obj\Debug\BlueBox 3DViewer.csprojAssemblyReference.cache
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\obj\Debug\BlueBox_3DViewer.Properties.Resources.resources
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\obj\Debug\BlueBox 3DViewer.csproj.GenerateResource.cache
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\obj\Debug\BlueBox 3DViewer.csproj.CoreCompileInputs.cache
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\obj\Debug\BlueBox 3DViewer.csproj.CopyComplete
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\obj\Debug\BlueBox 3DViewer.exe
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\obj\Debug\BlueBox 3DViewer.pdb
+E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\BlueBox 3DViewer\obj\Debug\BlueBox_3DViewer.MainViewer.resources
