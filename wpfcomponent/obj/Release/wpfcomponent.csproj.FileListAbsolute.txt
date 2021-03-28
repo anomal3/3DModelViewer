@@ -16,3 +16,21 @@ E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\wpfcomponent\obj\Release\wpfc
 E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\wpfcomponent\obj\Release\wpfcomponent.csproj.CopyComplete
 E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\wpfcomponent\obj\Release\wpfcomponent.dll
 E:\Github\BlueBox 3D model viewer\BlueBox 3DViewer\wpfcomponent\obj\Release\wpfcomponent.pdb
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\bin\Release\wpfcomponent.dll
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\bin\Release\wpfcomponent.pdb
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\bin\Release\HelixToolkit.dll
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\bin\Release\HelixToolkit.Wpf.dll
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\bin\Release\HelixToolkit.xml
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\bin\Release\HelixToolkit.Wpf.xml
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent.csprojAssemblyReference.cache
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\OBJViewer.g.cs
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent_MarkupCompile.cache
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent_MarkupCompile.lref
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\OBJViewer.baml
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent.g.resources
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent.Properties.Resources.resources
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent.csproj.GenerateResource.cache
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent.csproj.CoreCompileInputs.cache
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent.csproj.CopyComplete
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent.dll
+E:\Github\BlueBox 3D model viewer\3DModelViewer\wpfcomponent\obj\Release\wpfcomponent.pdb
