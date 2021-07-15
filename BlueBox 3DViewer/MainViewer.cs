@@ -10,7 +10,7 @@ namespace BlueBox_3DViewer
         {
             InitializeComponent();
             bOpenOBJ.Click += Open3DModelOBJ;
-            bOpenFBX.Enabled = !bOpenFBX.Enabled; //TODO : Add fbx open function
+            bOpenFBX.Enabled = !bOpenFBX.Enabled; //TODO : Add fbx open function fbx libs
             this.Text = "BlueBox 3D Model Viewer v." + Assembly.GetExecutingAssembly().GetName().Version;
         }
 
